@@ -5,6 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	
+	<p>OK</p>
+	<p>OK</p>
 </body>
 </html>
